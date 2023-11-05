@@ -16,3 +16,13 @@ Follow [these instructions](https://github.com/codingforentrepreneurs/Pi-Awesome
 The follow this [Flask and Python Tutorial](https://github.com/codingforentrepreneurs/Pi-Awesome/blob/main/how-tos/Create%20a%20Minimal%20Web%20Application%20with%20Nginx%2C%20Python%2C%20Flask%20%26%20Raspberry%20Pi.md)  
 
 ...Now you have a basic Python Based Webapp :)  
+
+### Some Links:
+ - https://www.python.org/
+ - https://www.w3schools.com/python/default.asp
+ - https://www.w3schools.com/mysql/default.asp
+ - https://flask.palletsprojects.com
+ - https://www.nginx.com/
+ - https://www.piawesome.com
+ - https://www.fullstackpython.com/wsgi-servers.html
+ - https://swagger.io/
