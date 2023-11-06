@@ -21,6 +21,8 @@ The follow this [Flask and Python Tutorial](https://github.com/codingforentrepre
 
 [https://petstore.swagger.io/](https://petstore.swagger.io/)
 
+## Presentation File can be found here:
+https://github.com/phmayer/IoT23_webserver/blob/main/IoT_Web_server_fall2023.pptx  
 
 ## Some Links:
  - https://www.python.org/
