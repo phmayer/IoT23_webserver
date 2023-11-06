@@ -17,12 +17,12 @@ The follow this [Flask and Python Tutorial](https://github.com/codingforentrepre
 
 ...Now you have a basic Python Based Webapp :)  
 
-### Example for REST API Documentation with Swagger:
+## Example for REST API Documentation with Swagger:
 
 [https://petstore.swagger.io/](https://petstore.swagger.io/)
 
 
-### Some Links:
+## Some Links:
  - https://www.python.org/
  - https://www.w3schools.com/python/default.asp
  - https://www.w3schools.com/mysql/default.asp
