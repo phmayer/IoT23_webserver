@@ -31,3 +31,4 @@ The follow this [Flask and Python Tutorial](https://github.com/codingforentrepre
  - https://www.piawesome.com
  - https://www.fullstackpython.com/wsgi-servers.html
  - https://swagger.io/
+ - [Reddit: eli5 REST](https://www.reddit.com/r/explainlikeimfive/comments/rypnmj/eli5_what_is_a_rest_api/)
