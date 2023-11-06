@@ -1,5 +1,5 @@
 # Webserver and Databases
-Handout for Presentation on Webservers and DB for IoT Class (Fall 2023) at KIT.  
+Handout for Presentation on Webservers and DB for IoT Class (Fall 2023) at KIT. (2023-11-06)  
 (Done by Denis Maric & Philipp Mayer)
 
 ## Webserver Demo
@@ -16,6 +16,11 @@ Follow [these instructions](https://github.com/codingforentrepreneurs/Pi-Awesome
 The follow this [Flask and Python Tutorial](https://github.com/codingforentrepreneurs/Pi-Awesome/blob/main/how-tos/Create%20a%20Minimal%20Web%20Application%20with%20Nginx%2C%20Python%2C%20Flask%20%26%20Raspberry%20Pi.md)  
 
 ...Now you have a basic Python Based Webapp :)  
+
+### Example for REST API Documentation with Swagger:
+
+[https://petstore.swagger.io/](https://petstore.swagger.io/)
+
 
 ### Some Links:
  - https://www.python.org/
