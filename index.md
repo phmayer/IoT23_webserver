@@ -4,7 +4,7 @@ Handout for Presentation on Webservers and DB for IoT Class (Fall 2023) at KIT. 
 
 ## Webserver Demo
 For our Webserver Setup Demo we showed you some of the Guides from this Repo:   
-https://github.com/codingforentrepreneurs/Pi-Awesome  
+[https://github.com/codingforentrepreneurs/Pi-Awesome](https://github.com/codingforentrepreneurs/Pi-Awesome)  
 (This also contains a lot of helpful information on using the Raspberry Pi)
 
 **1. Nginx Setup:**  
@@ -22,15 +22,15 @@ The follow this [Flask and Python Tutorial](https://github.com/codingforentrepre
 [https://petstore.swagger.io/](https://petstore.swagger.io/)
 
 ## Presentation File can be found here:
-https://github.com/phmayer/IoT23_webserver/blob/main/IoT_Web_server_fall2023.pptx  
+[https://github.com/phmayer/IoT23_webserver/blob/main/IoT_Web_server_fall2023.pptx](https://github.com/phmayer/IoT23_webserver/blob/main/IoT_Web_server_fall2023.pptx)  
 
 ## Some Links:
- - https://www.python.org/
- - https://www.w3schools.com/python/default.asp
- - https://www.w3schools.com/mysql/default.asp
- - https://flask.palletsprojects.com
- - https://www.nginx.com/
- - https://www.piawesome.com
- - https://www.fullstackpython.com/wsgi-servers.html
- - https://swagger.io/
+ - [https://www.python.org/](https://www.python.org/)
+ - [https://www.w3schools.com/python/default.asp](https://www.w3schools.com/python/default.asp)
+ - [https://www.w3schools.com/mysql/default.asp](https://www.w3schools.com/mysql/default.asp)
+ - [https://flask.palletsprojects.com](https://flask.palletsprojects.com)
+ - [https://www.nginx.com/](https://www.nginx.com/)
+ - [https://www.piawesome.com](https://www.piawesome.com)
+ - [https://www.fullstackpython.com/wsgi-servers.html](https://www.fullstackpython.com/wsgi-servers.html)
+ - [https://swagger.io/](https://swagger.io/)
  - [Reddit: eli5 REST](https://www.reddit.com/r/explainlikeimfive/comments/rypnmj/eli5_what_is_a_rest_api/)
